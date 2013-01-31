@@ -1,0 +1,5 @@
+#sidebar SideBar
+
+=company background/business plan:=
+
+*In many restaurants, people have to wait for a long time to be seated. Some restaurants have a waiting list and an estimated waiting time. The waiting time varies from one restaurant to another depending  if the restaurant is well known or if it is on weekends or holidays. The idea of this project is to develop an online (service/application) for any restaurant so the customers can check the availability in that restaurant and make a reservation. This project will be a benefit for both restaurant and customers.*
