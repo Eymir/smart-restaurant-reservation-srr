@@ -1,3 +1,4 @@
+#sidebar sidebar
 
 =company background/business plan:=
 
