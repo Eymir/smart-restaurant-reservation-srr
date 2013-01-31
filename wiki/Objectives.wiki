@@ -1,0 +1,9 @@
+#sidebar SideBar
+
+
+=Objectives:=
+
+  # Save waiting time in restaurants.
+  # Have restaurants organized and look nice.
+  # Faster and easier way to make a reservation.
+  # Keep restaurant websites active and attractive.
