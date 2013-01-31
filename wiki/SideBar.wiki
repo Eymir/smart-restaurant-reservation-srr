@@ -1,4 +1,4 @@
-* [ProjectProposal Project Proposal]
+ *[ProjectProposal Project Proposal]
     * [Background Background]
     * [Overview Overview]
     * [Objectives Objectives]
@@ -10,6 +10,4 @@
   * [TeamSkill4 Team Skill 4]
   * [TeamSkill5 Team Skill 5]
   * [TeamSkill6 Team Skill 6]
-
-
 
