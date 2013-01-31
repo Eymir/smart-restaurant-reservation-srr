@@ -1,4 +1,3 @@
-#sidebar ProjectProposal
 
 =company background/business plan:=
 
