@@ -1,0 +1,23 @@
+#sidebar sidebar
+
+=company background/business plan:=
+
+*In many restaurants, people have to wait for a long time to be seated. Some restaurants have a waiting list and an estimated waiting time. The waiting time varies from one restaurant to another depending  if the restaurant is well known or if it is on weekends or holidays. The idea of this project is to develop an online (service/application) for any restaurant so the customers can check the availability in that restaurant and make a reservation. This project will be a benefit for both restaurant and customers.*
+ =project overview:=
+*Smart Restaurant Reservation (SRR) is an online reservation (system/application) that offers premier online service which connects restaurants with new and existing customers. With Smart Restaurant Reservation (SRR), customers can check, online, the availability of tables in a restaurant and make a reservation at a specified time for a specified number of people. They also can update their reservations in advance (at least 45 minutes before the specified time).  This service will provide a fast and  efficient way to find available tables in restaurants. Since Smart Restaurant Reservation (SRR) is an online service, customers can make reservations any time, regardless of the hour. On the other hand, restaurants will be able to manage parties  easily, and they will also be able to have some control over the availability and number of reservations allowed. However, restaurants should have an online website in order to get these advantages.*
+
+=Objectives:=
+
+  # Save waiting time in restaurants.
+  # Have restaurants organized and look nice.
+  # Faster and easier way to make a reservation.
+  # Keep restaurant websites active and attractive.
+
+
+
+=Potential customers:=
+  * Customers who don’t like to wait for a long time.
+  * Busy customers who cannot wait.
+  * Families with children.
+  * Older people.
+  * Customers with any kind of disability.
