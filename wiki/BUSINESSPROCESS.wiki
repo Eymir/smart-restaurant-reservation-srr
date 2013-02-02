@@ -20,13 +20,13 @@ http://smart-restaurant-reservation-srr.googlecode.com/files/table-1.jpg
 
 http://smart-restaurant-reservation-srr.googlecode.com/files/table-2.jpg
 
- ====Personnel Requirements:====
+ ===Personnel Requirements:===
 
 *On SRR project, efficient workers work as a team. Everyone of this team has a specific task to do. Below is the list of SRR project team:*
 
 http://smart-restaurant-reservation-srr.googlecode.com/files/table-3.jpg
 
- ====Support Requirements:====
+ ===Support Requirements:===
 *Regarding to SRR project, we have the following list of staff to provide an efficient support:*
 
 http://smart-restaurant-reservation-srr.googlecode.com/files/table-4.jpg
@@ -97,6 +97,4 @@ http://smart-restaurant-reservation-srr.googlecode.com/files/table-4.jpg
   * *The system should operate professionally.*  
 
   
-
-
 
