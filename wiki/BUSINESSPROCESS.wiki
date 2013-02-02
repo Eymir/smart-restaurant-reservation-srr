@@ -1,0 +1,11 @@
+ =1.0 Business Objectives for Process:=
+
+*Nowadays, people don’t have time to wait in lines at restaurants especially people who work or have a busy life. Therefore, people need to make reservations in advance, so they don’t waste their time waiting in restaurants to be seated. Making online reservations would add an advantage for both customers and restaurants. From the customers’ side, they would not get on hold on the phone making reservations, so online reservations will be easier and faster for them. On the other hand, restaurants can be physically more organized. Moreover, it would be such a great advertisement for restaurants that have this feature rather than being merely mentioned in search engines.*
+ 
+ =2.0 Business Requirements:=
+*To have a Smart Restaurant Reservation (SRR), restaurants should have their own online websites so they can add this feature to enhance their services.*
+
+ ==2.1 Process Flows:==
+*Proposed or “To Be” Process Flow and Process Steps:*
+
+http://smart-restaurant-reservation-srr.googlecode.com/files/last-diagram.jpg
