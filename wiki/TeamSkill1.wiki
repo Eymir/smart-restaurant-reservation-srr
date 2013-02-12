@@ -18,6 +18,7 @@ http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-2.jpg
 ==Step 2: Understanding the root causes – the problem behind the problem 
 Fishbone Diagram of Root Causes==
 
+
 http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-8.jpg
 
 ==Step 3: Identify stakeholders and the users of the Smart Reservation Restaurant (SRR).==
