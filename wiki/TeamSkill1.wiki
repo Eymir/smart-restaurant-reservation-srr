@@ -14,8 +14,9 @@ http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-1.jpg
 
 http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-2.jpg
 
+
 ==Step 2: Understanding the root causes – the problem behind the problem 
-Fishbone Diagram of Root Causes.==
+Fishbone Diagram of Root Causes==
 
 http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-8.jpg
 
@@ -43,5 +44,3 @@ http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-6.jpg
 ===Table A-6: Constraints for SRR System===
 
 http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-7.jpg
-
-
