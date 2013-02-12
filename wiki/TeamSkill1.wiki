@@ -15,8 +15,8 @@ http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-1.jpg
 http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-2.jpg
 
 
-*Step 2: Understanding the root causes - the problem behind the problem 
-Fishbone Diagram of Root Causes.*
+==Step 2: Understanding the root causes - the problem behind the problem 
+Fishbone Diagram of Root Causes.==
 
 
 http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-8.jpg
