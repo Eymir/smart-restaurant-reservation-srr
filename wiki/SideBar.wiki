@@ -8,7 +8,7 @@
  * [BUSINESSPROCESS  BUSINESS PROCESS ]
  * [TeamSkill1 Team Skill 1]
  
-* [TeamSkill2 Team Skill 2]
+ * [TeamSkill2 Team Skill 2]
     * [PencilProject Pencil Project]
 
  * [TeamSkill3 Team Skill 3]
