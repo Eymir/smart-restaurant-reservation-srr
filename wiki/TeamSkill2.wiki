@@ -1,0 +1,77 @@
+=Team Skill 2 - Understanding User and Stakeholder Needs=
+
+==Summary of User Needs as Collected from Interviews==
+
+===From restaurant’s owner perspective:===
+
+* *Low initial and maintenance cost.*
+* *Able to add new features in the future.*
+* *Easy to administrate the system.*
+* *High quality and reliable system.*
+* *Speed of update reservations.*
+* *Notification of new reservations.*
+* *Attractive to customers.*
+* *Warranty on software and hardware.*
+* *Inexpensive cost of software update.* 
+
+===From customer perspective:===
+
+* *The system should be easy to use.*
+* *Available service any time.*
+* *Short time and steps to make a reservation.*
+* *No membership or username is required.*
+* *Short time to get a response for the reservation.*
+* *Easy to find reservation icon on the website.*
+* *The system should be trustworthy.*
+
+==Interview notes==
+
+===What will this system add to your business?=== 
+* *Will allow our customers to make reservations any time.*
+* *Will reduce using papers and missing phone calls.*
+* *Managing online reservations would be easier and smoother.*
+
+===How would you advertise this feature to your customers?===
+* *Inform customers who make call reservations.* 
+* *Putting signs and cards on the restaurant’s walls and tables.*
+
+===Will be there any offers for customers who use this feature?===
+* *A discount for online reservations.*
+* *A special gift for parties.*
+
+===What will be the differences between current reservations and online reservations?===
+* *Online reservations will optimize the restaurant’s income.*
+* *The possibility to miss reservations will decrease sharply.*
+
+===Who will supervise this system?===
+*The restaurant’s manager should be able to manage all online reservations.*
+
+===What are your requirements from this system?===
+* *Easy to use.*
+* *Reservation’s process should not take a long time.*
+
+
+==The Requirements Workshop==
+
+*Attendees of the SRR Requirements Workshop*
+
+https://smart-restaurant-reservation-srr.googlecode.com/files/TS2-table1.jpg
+
+*Entry SRR System Requirements Workshop Structure:*
+
+https://smart-restaurant-reservation-srr.googlecode.com/files/TS2-1.jpg
+
+*Priority Table:*
+
+https://smart-restaurant-reservation-srr.googlecode.com/files/TS2-table2.jpg
+
+====Use Cases:====
+
+*Use cases derived to fulfill the above features*
+
+https://smart-restaurant-reservation-srr.googlecode.com/files/TS2-table3.jpg
+  
+  
+ 
+ 
+  
