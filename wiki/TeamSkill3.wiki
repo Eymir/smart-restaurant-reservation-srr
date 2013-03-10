@@ -116,5 +116,74 @@ https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table3.jpg
 
 ====5.4 Easy to manage reservation: SRR system would add an efficient feature by updating and notifying any new reservation.==== 
 
+==6.0 Exemplary Use Case==
+
+*Use Cases table*
+
+https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table4.jpg
+
+===6.1 Use cases===
+
+https://smart-restaurant-reservation-srr.googlecode.com/files/UseCaseDiagram%20%281%29.jpeg
+
+===6.2 Use cases Description===
+
+====6.2.1 Choose date and time use case====
+https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table5.jpg
+
+====6.2.2 Choose seats use case====
+
+https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table6.jpg
+
+====6.2.3 Make a reservation use case====
+
+https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table7.jpg
+
+====6.2.4 Maintain the system use case====
+
+https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table8.jpg
+
+==7.0 Other Product Requirements==
+
+===7.1 Applicable Standards===
+
+* *Internet access.*
+* *UL, CMM, ISO for safety and quality standards.*
+
+===7.2 System Requirements===
+
+* *1 GB RAM, 10 GB of hard-disk.*
+* *Oracle Database preinstalled.*
+* *Internet modem.*
+
+===7.3 Licensing, Security, and Installation===
+
+* *Set of terms and conditions for installation of this system in the restaurant’s website should be read and agreed.*
+* *Software security system to guaranty enough protection for the restaurant’s website.*
+
+===7.4 Performance Requirements===
+
+* *Save all reservations.*
+* *Retrieve old reservations for any purpose.* 
+* *Ability to add and delete reservations.*
+* *System should declare all new reservations.*
+
+==8.0 Documentation Requirements==
+
+===8.1 User Manual===
+
+*User manual will guide restaurant’s staff on how to use SRR system.*
+
+===8.2 Installation Guides, Configuration, and Read Me Files===
+
+*SRR system supposes to be easy for customer to use.*
+
+===8.3 Labeling and Packaging===
+
+*All terms and licenses have to be signed before the system launches.*
+
+==9.0 Glossary==
+
+*SRR – Smart Restaurant Reservation*
 
 
