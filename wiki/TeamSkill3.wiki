@@ -125,7 +125,7 @@ https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table4.jpg
 
 ===6.1 Use cases===
 
-https://smart-restaurant-reservation-srr.googlecode.com/files/UseCaseDiagram%20%281%29.jpeg
+https://smart-restaurant-reservation-srr.googlecode.com/files/Use-case.jpg
 
 ===6.2 Use cases Description===
 
