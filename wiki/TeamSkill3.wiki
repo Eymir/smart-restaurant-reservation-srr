@@ -13,4 +13,4 @@
 
 ===1.3. References===
 
-https://code.google.com/p/smart-restaurant-reservation-srr/wiki/BUSINESSPROCESS
+BUSINESSPROCESS
