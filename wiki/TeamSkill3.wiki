@@ -79,6 +79,7 @@
 ===3.1	SRR system Perspective===
 
 * *Customers will use the restaurant’s website to make reservations.*
+
 * *SRR system will connect to the restaurant’s database to check availability.*
 
 https://smart-restaurant-reservation-srr.googlecode.com/files/UseCaseDiagram.jpeg
@@ -185,5 +186,3 @@ https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table8.jpg
 ==9.0 Glossary==
 
 *SRR – Smart Restaurant Reservation*
-
-
