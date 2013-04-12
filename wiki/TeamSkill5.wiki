@@ -4,7 +4,7 @@
 
   ===1.1 Purpose:===
 
- *This part provides  the organized method to elaborate, organize, and communicate the software requirements. This will show details for the v1.0 release of the Smart Restaurant Reservation (SRR) system.*
+*This part provides  the organized method to elaborate, organize, and communicate the software requirements. This will show details for the v1.0 release of the Smart Restaurant Reservation (SRR) system.*
 
   ===1.2 Scope:===
 
