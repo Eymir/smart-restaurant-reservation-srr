@@ -1,0 +1,47 @@
+# Team Skill 1: Analyzing the Problem #
+
+## Step 1: Gain agreement on the problem definition. ##
+
+### SRR system Problem Statement: ###
+
+**SRR system’s team found out that there are two real needs to apply the SRR. Therefore, SRR team identified those two problem statements.**
+
+### Table A-1: Problem Statement for Restaurants ###
+
+![http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-1.jpg](http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-1.jpg)
+
+### Table A-2: Problem Statement for Customers ###
+
+![http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-2.jpg](http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-2.jpg)
+
+
+**Step 2: Understanding the root causes - the problem behind the problem
+Fishbone Diagram of Root Causes.**
+
+
+![http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-8.jpg](http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-8.jpg)
+
+## Step 3: Identify stakeholders and the users of the Smart Reservation Restaurant (SRR). ##
+
+![http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-3.jpg](http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-3.jpg)
+
+**Smart Reservation Restaurant Block Diagram with Actors Identified.**
+
+![http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-4.jpg](http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-4.jpg)
+
+
+## Step 4: Actor Survey ##
+
+### Table A-4: Actors for SRR system ###
+
+![http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-5.jpg](http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-5.jpg)
+
+### Table A-5:Non-Actor Stakeholders for SRR System ###
+
+![http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-6.jpg](http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-6.jpg)
+
+## Step 5: Identify the Constraints to be imposed on the Solution ##
+
+### Table A-6: Constraints for SRR System ###
+
+![http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-7.jpg](http://smart-restaurant-reservation-srr.googlecode.com/files/TS1-7.jpg)

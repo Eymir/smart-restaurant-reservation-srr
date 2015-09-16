@@ -1,0 +1,96 @@
+> # 1.0 Business Objectives for Process: #
+
+**Nowadays, people don’t have time to wait in lines at restaurants especially people who work or have a busy life. Therefore, people need to make reservations in advance, so they don’t waste their time waiting in restaurants to be seated. Making online reservations would add an advantage for both customers and restaurants. From the customers’ side, they would not get on hold on the phone making reservations, so online reservations will be easier and faster for them. On the other hand, restaurants can be physically more organized. Moreover, it would be such a great advertisement for restaurants that have this feature rather than being merely mentioned in search engines.**
+
+> # 2.0 Business Requirements: #
+**To have a Smart Restaurant Reservation (SRR), restaurants should have their own online websites so they can add this feature to enhance their services.**
+
+> ## 2.1 Process Flows: ##
+**Proposed or “To Be” Process Flow and Process Steps:**
+
+![http://smart-restaurant-reservation-srr.googlecode.com/files/last-diagram.jpg](http://smart-restaurant-reservation-srr.googlecode.com/files/last-diagram.jpg)
+
+> ### 2.1.2 Proposed or “To Be” Process Flow and Process Steps: ###
+
+![http://smart-restaurant-reservation-srr.googlecode.com/files/table-1.jpg](http://smart-restaurant-reservation-srr.googlecode.com/files/table-1.jpg)
+
+> ## 2.2 New Process Requirements: ##
+
+![http://smart-restaurant-reservation-srr.googlecode.com/files/table-2.jpg](http://smart-restaurant-reservation-srr.googlecode.com/files/table-2.jpg)
+
+> ### Personnel Requirements: ###
+
+**On SRR project, efficient workers work as a team. Everyone of this team has a specific task to do. Below is the list of SRR project team:**
+
+![http://smart-restaurant-reservation-srr.googlecode.com/files/table-3.jpg](http://smart-restaurant-reservation-srr.googlecode.com/files/table-3.jpg)
+
+> ### Support Requirements: ###
+**Regarding to SRR project, we have the following list of staff to provide an efficient support:**
+
+![http://smart-restaurant-reservation-srr.googlecode.com/files/table-4.jpg](http://smart-restaurant-reservation-srr.googlecode.com/files/table-4.jpg)
+
+> ## 2.3 Business Impact: ##
+
+**Restaurants that add this feature definitely would increase their customers especially people who have parties or occasions. Furthermore, restaurants would be able to manage their business sufficiently. On the other hand, customers would prefer to deal with restaurants that have online reservation feature. As well as, people who have short time to have a business lunch for instance because they have limited time to go to restaurants.**
+
+> ### 2.3.1 Metrics to Measure Business Impact: ###
+
+> ### 2.3.1.1 Measurable Business Metrics to be used: ###
+
+  * **Number of customers who use online reservations.**
+  * **Consumed time to reserve tables in restaurants.**
+  * **Estimated time waiting in lines at restaurants.**
+
+> ### 2.3.1.2 Responsibility of Metrics Collection & Analysis: ###
+
+  * **The restaurant’s website administrators will collect the number of online reservations.**
+  * **The restaurant’s website administrators will estimate the time that customers consume using SRR system.**
+  * **Restaurants’ employers will measure the waiting time in restaurants.**
+
+
+> ### 2.3.1.3 Business / System Metrics Communication Plan: ###
+
+**The statistics of measurable business metrics will communicate to the SRR system team with the restaurant’s manager as well as the customers to encourage them using the online reservation system.**
+
+> ### 2.3.2 Business Dependencies: ###
+
+**This project is dependent upon the system area being up and running by June.**
+
+> ### 2.3.3 Business Risks: ###
+
+  * **Customers do not have online access.**
+  * **Customers do not trust online reservations.**
+
+> ## 2.4 Technology Impact: ##
+
+**The main impact will be shown on the number of visitors to the restaurants` websites.**
+
+
+> ### 2.4.1 Technology Dependencies: ###
+
+**The restaurant should have a website in order to use the SRR system to allow customers to make reservations.**
+
+
+> ### 2.4.2 Technology Risks: ###
+
+  * **The website may shutdown or be under maintenance.**
+  * **The website may attacked by hackers.**
+  * **The website could have a delay updating reservation and availability.**
+  * **Customers might not receive conformation numbers.**
+
+
+> # 3.0 Assumptions: #
+
+  * **All customers are able to access the internet and make reservations.**
+  * **All customers with different ages can fill out the reservation form easily.**
+
+
+> # 4.0 ISSUES: #
+
+**Delay of update in the system will cause a gap between the customers` reservations and availability, so a problem could occur between customers and restaurants.**
+
+> # 5.0 Project Success Criteria: #
+
+  * **The system should be easy to use and attractive.**
+  * **The system should operate professionally.**
+

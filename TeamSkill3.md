@@ -1,0 +1,188 @@
+# Team Skill 3 - DEFINING THE SYSTEM #
+
+## 1.0	Introduction ##
+
+### 1.1 Purpose of the Vision Document ###
+
+**This document will include data collection, analysis, design, implementation, test, and the SRR system highlights. Moreover, it documents all stakeholders’ needs.**
+
+### 1.2 Product Overview ###
+
+**This product would give groups a chance to make their reservations at restaurants online anytime. Also, restaurants would manage the reservations that they have in a easy way. In general, this product would offer such a convenient feature for restaurants and restaurants’ customers.**
+
+
+### 1.3. References ###
+
+[BUSINESS PROCESS](https://code.google.com/p/smart-restaurant-reservation-srr/wiki/BUSINESSPROCESS)
+
+[Team Skill 1](https://code.google.com/p/smart-restaurant-reservation-srr/wiki/TeamSkill1)
+
+[Team Skill 2](https://code.google.com/p/smart-restaurant-reservation-srr/wiki/TeamSkill2)
+
+
+## 2.0	User Description ##
+
+### 2.1	User/Market Demographics ###
+
+**Users are the groups of customers who are willing to make online reservations any time and getting a confirmation.**
+
+### 2.2 User Profile ###
+
+  * **Customers: Any group who is able to access the internet and wants to make a reservation any time.**
+  * **Front desk employee: An employer who is in charge of reservation management.**
+  * **Developers:  A programmer who is in charge of maintaining and developing the system.**
+
+
+### 2.3 User Environment ###
+
+**The SRR system must be added to a restaurant’s website. Also, users should be able to access the internet.**
+
+
+### 2.4 Key User Needs ###
+
+### From restaurant’s owner perspective: ###
+
+  * **Low initial and maintenance cost.**
+  * **Able to add new features in the future.**
+  * **Easy to administrate the system.**
+  * **High quality and reliable system.**
+  * **Speed of update reservations.**
+  * **Notification of new reservations.**
+  * **Attractive to customers.**
+  * **Warranty on software and hardware.**
+  * **Inexpensive cost of software update.**
+
+### From customer perspective: ###
+
+  * **The system should be easy to use.**
+  * **Available service any time.**
+  * **Short time and steps to make a reservation.**
+  * **No membership or username is required.**
+  * **Short time to get a response for the reservation.**
+  * **Easy to find reservation icon on the website.**
+  * **The system should be trustworthy.**
+
+### 2.5 Alternatives and Competition ###
+
+#### 2.5.1 Phone call reservations ####
+
+**Make phone calls at restaurants is an alternative way to make reservations. It is more trustful and common. However, phone calls may not be answered for some reason or phone calls might be out of business hours.**
+
+#### 2.5.2 Walk in reservations ####
+
+**Customers may go to restaurants to make reservations. This is another way to make reservations. It is most trustful. However, customers may not have the time to do this.**
+
+## 3.0	SRR System Overview ##
+
+**This section provides a high level view of the system capabilities and interfaces to other systems.**
+
+### 3.1	SRR system Perspective ###
+
+  * **Customers will use the restaurant’s website to make reservations.**
+
+  * **SRR system will connect to the restaurant’s database to check availability.**
+
+![https://smart-restaurant-reservation-srr.googlecode.com/files/UseCaseDiagram.jpeg](https://smart-restaurant-reservation-srr.googlecode.com/files/UseCaseDiagram.jpeg)
+
+### 3.2	SRR System Position Statement. ###
+![https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table1.jpg](https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table1.jpg)
+
+### 3.3 Summary of Capabilities. ###
+
+![https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table2.jpg](https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table2.jpg)
+
+### 3.4 Assumptions and Dependencies ###
+
+**The following assumptions and dependencies are related to the SRR System:**
+
+  * **The restaurant has a website.**
+  * **All restaurants’ customers use computers.**
+  * **The internet access should be available.**
+
+### 3.5 Cost and Pricing ###
+
+**The cost and pricing will be determined after finishing this project. These will include programming and maintenance.**
+
+## 4.0 Feature Attributes ##
+
+![https://smart-restaurant-reservation-srr.googlecode.com/files/team-skill3-888.jpg](https://smart-restaurant-reservation-srr.googlecode.com/files/team-skill3-888.jpg)
+
+## 5.0 SRR system Features ##
+
+#### 5.1 Make a reservation any time: customers can make reservation out of business hours. ####
+
+#### 5.2 Always, get a response: no need to have personal contact with a restaurant representative. ####
+
+#### 5.3 Modern reservation way: reduce traditional reservation way that uses manual papers. ####
+
+#### 5.4 Easy to manage reservation: SRR system would add an efficient feature by updating and notifying any new reservation. ####
+
+## 6.0 Exemplary Use Case ##
+
+**Use Cases table**
+
+![https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table4.jpg](https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table4.jpg)
+
+### 6.1 Use cases ###
+
+![https://smart-restaurant-reservation-srr.googlecode.com/files/Usecase.jpg](https://smart-restaurant-reservation-srr.googlecode.com/files/Usecase.jpg)
+
+### 6.2 Use cases Description ###
+
+#### 6.2.1 Choose date and time use case ####
+![https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table5.jpg](https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table5.jpg)
+
+#### 6.2.2 Choose seats use case ####
+
+![https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table6.jpg](https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table6.jpg)
+
+#### 6.2.3 Make a reservation use case ####
+
+![https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table7.jpg](https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table7.jpg)
+
+#### 6.2.4 Maintain the system use case ####
+
+![https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table8.jpg](https://smart-restaurant-reservation-srr.googlecode.com/files/TS3-table8.jpg)
+
+## 7.0 Other Product Requirements ##
+
+### 7.1 Applicable Standards ###
+
+  * **Internet access.**
+  * **UL, CMM, ISO for safety and quality standards.**
+
+### 7.2 System Requirements ###
+
+  * **1 GB RAM, 10 GB of hard-disk.**
+  * **Oracle Database preinstalled.**
+  * **Internet modem.**
+
+### 7.3 Licensing, Security, and Installation ###
+
+  * **Set of terms and conditions for installation of this system in the restaurant’s website should be read and agreed.**
+  * **Software security system to guaranty enough protection for the restaurant’s website.**
+
+### 7.4 Performance Requirements ###
+
+  * **Save all reservations.**
+  * **Retrieve old reservations for any purpose.**
+  * **Ability to add and delete reservations.**
+  * **System should declare all new reservations.**
+
+## 8.0 Documentation Requirements ##
+
+### 8.1 User Manual ###
+
+**User manual will guide restaurant’s staff on how to use SRR system.**
+
+### 8.2 Installation Guides, Configuration, and Read Me Files ###
+
+**SRR system supposes to be easy for customer to use.**
+
+### 8.3 Labeling and Packaging ###
+
+**All terms and licenses have to be signed before the system launches.**
+
+## 9.0 Glossary ##
+
+**SRR – Smart Restaurant Reservation**

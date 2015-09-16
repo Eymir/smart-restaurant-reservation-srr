@@ -1,0 +1,17 @@
+# Team Skill 4 - Managing Scope #
+
+**Table 1 - Prioritized SRR System Features List with Efforts and Risk Estimates**
+
+![https://smart-restaurant-reservation-srr.googlecode.com/files/team-skill4-1.jpg](https://smart-restaurant-reservation-srr.googlecode.com/files/team-skill4-1.jpg)
+
+**Table 2 - Baseline Features for SRR system initial release**
+
+![https://smart-restaurant-reservation-srr.googlecode.com/files/team-skill4-2.jpg](https://smart-restaurant-reservation-srr.googlecode.com/files/team-skill4-2.jpg)
+
+**V1.0 Mandatory Baseline: Everything above must be included or we will delay release**
+
+![https://smart-restaurant-reservation-srr.googlecode.com/files/team-skill4-3.jpg](https://smart-restaurant-reservation-srr.googlecode.com/files/team-skill4-3.jpg)
+
+**Table 3 - Optional Features for future releases:**
+
+![https://smart-restaurant-reservation-srr.googlecode.com/files/team-skill4-4.jpg](https://smart-restaurant-reservation-srr.googlecode.com/files/team-skill4-4.jpg)

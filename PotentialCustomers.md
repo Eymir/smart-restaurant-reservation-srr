@@ -1,0 +1,6 @@
+# Potential customers: #
+  * Customers who don’t like to wait for a long time.
+  * Busy customers who cannot wait.
+  * Families with children.
+  * Older people.
+  * Customers with any kind of disability.
